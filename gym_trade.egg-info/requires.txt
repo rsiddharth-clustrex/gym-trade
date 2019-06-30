@@ -1,0 +1,6 @@
+gym
+tensorflow
+numpy
+pandas
+torch
+torchvision
